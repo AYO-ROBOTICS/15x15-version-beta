@@ -35,6 +35,16 @@
 #define PROS_USE_LITERALS
 
 #include "api.h"
+#include "robodash/api.h"
+#include "auton.hpp"
+#include "SubsystemHeaders/chassis.hpp"
+#include "SubsystemHeaders/intake.hpp"
+#include "SubsystemHeaders/misc.hpp"
+#include "SubsystemHeaders/doinker.hpp"
+#include "SubsystemHeaders/clamp.hpp"
+#include "SubsystemHeaders/wall_stake.hpp"
+
+
 
 /**
  * You should add more #includes here
